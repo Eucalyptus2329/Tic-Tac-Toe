@@ -1,5 +1,5 @@
-# tic-tac-toe-js
-Basic tic tac toe using javascript
+# tic-tac-toe
+Basic tic tac toe using javascript, HTML and CSS
 
 # About game
 
